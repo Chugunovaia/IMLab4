@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMLab4", "IMLab4\IMLab4.csproj", "{7A810AAD-2597-44A3-AABB-FE40ECDDBCEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A810AAD-2597-44A3-AABB-FE40ECDDBCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A810AAD-2597-44A3-AABB-FE40ECDDBCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A810AAD-2597-44A3-AABB-FE40ECDDBCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A810AAD-2597-44A3-AABB-FE40ECDDBCEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E77AD3CB-6066-4446-9502-E8B259B71C30}
+	EndGlobalSection
+EndGlobal
